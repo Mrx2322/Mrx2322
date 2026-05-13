@@ -1,15 +1,14 @@
-### Hi, I'm Deivis Ruiz Martinez 👋
+# Hi, I'm Deivis Ruiz Martinez 👋
 <div align="center" width="50">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ2cXBrMHYyeDZyODFuaHpkemFhaDczNDEwdXVianRxNzlqbm9wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/grlwgnFZpFUeWt0rsL/giphy.gif" alt="Welcome!" width="200"/>
 
 
-</div>
-Bienvenido a mi rincón de código. Soy un entusiasta de la programación con especialidad en el desarrollo de software con Java. Me encanta transformar ideas en soluciones funcionales, ya sea trabajando en el servidor o diseñando experiencias para la web.
+#### Bienvenido a mi rincón de código. Soy un entusiasta de la programación con especialidad en el desarrollo de software con Java. Me encanta transformar ideas en soluciones funcionales, ya sea trabajando en el servidor o diseñando experiencias para la web.
 
 🚀 En qué estoy trabajando: Principalmente en proyectos con Spring Boot y herramientas de desarrollo web.
 
-## TECNOLOGIAS :
-<p align="left">
+### TECNOLOGIAS :
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
